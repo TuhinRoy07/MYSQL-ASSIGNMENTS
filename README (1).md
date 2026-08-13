@@ -123,7 +123,7 @@ below.
 
 ### Database & Table Creation
 
-Add your screenshot here.
+![Screenshot 1](SCREENSHOT1.png)
 
 ### Employee Data
 
