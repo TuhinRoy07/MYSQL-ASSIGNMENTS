@@ -127,19 +127,14 @@ below.
 
 ### Employee Data
 
-Add your screenshot here.
+![Screenshot 2](SCREENSHOT2.png)
 
 ### Filtering & DISTINCT Queries
 
-Add your screenshot here.
+![Screenshot 3](SCREENSHOT3.png)
 
-### ALTER TABLE & Email Column
 
-Add your screenshot here.
-
-### LIMIT & Column Aliases
-
-Add your screenshot here.
+![Screenshot 4](SCREENSHOT4.png)
 
 ## 📁 Project Structure
 
